@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\Index.html",
+      "PackagePath": "staticwebassets\\views\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\Pelicula.html",
+      "PackagePath": "staticwebassets\\views\\Pelicula.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\img\\logo.png",
+      "PackagePath": "staticwebassets\\views\\img\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoFinal.props",
+      "PackagePath": "build\\ProyectoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoFinal.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoFinal.props",
+      "PackagePath": "buildTransitive\\ProyectoFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

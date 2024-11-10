@@ -257,3 +257,4 @@ C:\Users\LENOVO\Desktop\Proyecto Final\ProyectoFinal\ProyectoFinal\obj\Debug\net
 C:\Users\LENOVO\Desktop\Proyecto Final\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
 C:\Users\LENOVO\Desktop\Proyecto Final\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Proyecto Final\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\LENOVO\Desktop\Proyecto Final\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.sourcelink.json

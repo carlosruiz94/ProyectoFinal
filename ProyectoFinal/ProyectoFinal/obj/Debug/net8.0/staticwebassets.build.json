@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QRF6cYFmg6pJ50jlZc04oCr0LVOmQI9xn/5EV5IuDPc=",
+  "Hash": "sQJnaVgJFj+UXJzJ7fNEhR829EFKul5T+NqKGjsxYvA=",
   "Source": "ProyectoFinal",
   "BasePath": "_content/ProyectoFinal",
   "Mode": "Default",
@@ -15,5 +15,63 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\img\\logo.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "views/img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\img\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\Index.html",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "views/Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\views\\Pelicula.html",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "views/Pelicula.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\Pelicula.html"
+    }
+  ]
 }
