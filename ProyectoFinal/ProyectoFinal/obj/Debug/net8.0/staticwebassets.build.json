@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "QRF6cYFmg6pJ50jlZc04oCr0LVOmQI9xn/5EV5IuDPc=",
+  "Source": "ProyectoFinal",
+  "BasePath": "_content/ProyectoFinal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoFinal\\wwwroot",
+      "Source": "ProyectoFinal",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
